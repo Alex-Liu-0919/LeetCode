@@ -1,6 +1,8 @@
 # LeetCode
 
-my solutions for LeetCode.....
+My solutions for LeetCode.....
 
-if you have any suggestion, feel free to create a pr.
+All of my solutions are using C#.
+
+If you have any suggestion, feel free to create a pr.
 thank you!
